@@ -252,9 +252,4 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         NotificationCenter.default.post(name: NSNotification.Name("NewPlaceSaved"), object: nil)
         navigationController?.popViewController(animated: true)
     }
-    
-    
-
-    
-
 }

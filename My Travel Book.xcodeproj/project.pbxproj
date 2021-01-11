@@ -44,7 +44,7 @@
 		F9EE31E025A66A2500F7133E = {
 			isa = PBXGroup;
 			children = (
-				F9EE31EB25A66A2500F7133E /* My Travel Book */,
+				F9EE31EB25A66A2500F7133E /* MyTravelBook */,
 				F9EE31EA25A66A2500F7133E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F9EE31EB25A66A2500F7133E /* My Travel Book */ = {
+		F9EE31EB25A66A2500F7133E /* MyTravelBook */ = {
 			isa = PBXGroup;
 			children = (
 				F9EE31EC25A66A2500F7133E /* AppDelegate.swift */,
@@ -70,7 +70,7 @@
 				F9EE31FD25A66A2800F7133E /* Info.plist */,
 				F9EE31F525A66A2500F7133E /* My_Travel_Book.xcdatamodeld */,
 			);
-			path = "My Travel Book";
+			path = MyTravelBook;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
